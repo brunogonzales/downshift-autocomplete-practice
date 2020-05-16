@@ -1,4 +1,6 @@
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+## Preview
+![downshift-preview](https://p61.f2.n0.cdn.getcloudapp.com/items/yAu2ezw0/Screen%20Recording%202020-05-16%20at%2005.03.41.57%20PM.gif?v=9f0b14930c3013e9052fd40b22c0062f)
+
 
 ## Available Scripts
 
